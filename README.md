@@ -1,6 +1,6 @@
 # Ultimate WaaS List
 
-## 1) WP Ultimo ([Website](https://wpulitmo.com))
+## 1) WP Ultimo by Nextpress ([Website](https://wpulitmo.com))
 #### Easily create your fully-automated Website as a Service business!
 With WP Ultimo you can create your own Website as a Service platform – like Wix.com, Squarespace, WordPress.com, and more – in hours, not months! Revolutionize your business model now with WP Ultimo!
 
@@ -16,7 +16,7 @@ Don’t let your WP Multisite site/subsite admins run wild on your network.
 
 **Limits** - Limit email sending to a maximum per month globally, based on Ultimo plan, or per site. This allows you to provide an email sending address to your network users without fear of overuse.
 
-## 4) DNS Manager (Graveyard).
+## 4) DNS Manager by KeyPress (Graveyard).
 With DNS Manager, you'll connect your WordPress dashboard with a compatible managed DNS provider to create zones and records for you customer's websites directly from the WordPress dashboard.
 
 **NOTE:** This plugin is meant to be used by webmasters and advanced administrators. It requires a 3rd-party managed DNS service such as Amazon Route 53, Google Cloud DNS, ClouDNS, Cloudflare DNS or DNS Made Easy.
