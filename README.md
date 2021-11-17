@@ -3,22 +3,22 @@
 ## 1) WP Ultimo by NextPress [^1][^2].
 #### Easily create your fully-automated Website as a Service business!
 > With WP Ultimo you can create your own Website as a Service platform – like Wix.com, Squarespace, WordPress.com, and more – in hours, not months! Revolutionize your business model now with WP Ultimo!
-[^1]: Visit the officicial [website](https://wpultimo.com) of WP Ultimo.
-[^2]: Visit the officicial [website](https://nextpress.co) of NextPress the creators of WP Ultimo.
+[^1]: Visit the official [website](https://wpultimo.com) of WP Ultimo.
+[^2]: Visit the official [website](https://nextpress.co) of NextPress the creators of WP Ultimo.
 
-## 2) WP Email Manager ([Website](https://wpemailmanager.com/)) (WP Ultimo v1, v2)
+## 2) WP Email Manager [^3] (WP Ultimo v1, v2)
 ### Create, Update and Delete Domain Based Email Accounts Directly from the WordPress dashboard.
 > WP Email Manager makes it a breeze to create domain based email accounts from the WordPress dashboard while integrating with WP Multisite, WP Ultimo, MXroute, cPanel, DirectAdmin, 20i / StackCP, Mailcow & much more.
+[^3] Visit the official [website](https://wpemailmanager.com/) of WP Email Manager.
 
-
-## 3) Email Manager ([Website](https://emailmanager.io/)) (WP Ultimo v1)
+## 3) Email Manager [^4] (WP Ultimo v1)
 ### Log & Limit Email Sending
 > Don’t let your WP Multisite site/subsite admins run wild on your network.
 
 > **Log** - View a log of every email sent from the monitored email addresses that you set. Sort emails by specific site or from the entire network.
 
 > **Limits** - Limit email sending to a maximum per month globally, based on Ultimo plan, or per site. This allows you to provide an email sending address to your network users without fear of overuse.
-
+[^4] Visit the official [website](https://emailmanager.io/) of Email Manager.
 
 ## 4) DNS Manager by KeyPress Media (Graveyard) (WP Ultimo v1, v2)
 > With DNS Manager, you'll connect your WordPress dashboard with a compatible managed DNS provider to create zones and records for you customer's websites directly from the WordPress dashboard.
