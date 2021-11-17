@@ -21,7 +21,7 @@ _**Supports:** WP Ultimo v1 and v2._
 [^3]: Visit the official [Website](https://wpemailmanager.com/) of WP Email Manager.
 
 ## 3) Email Manager [^4]
-### Log & Limit Email Sending
+#### Log & Limit Email Sending
 > Don’t let your WP Multisite site/subsite admins run wild on your network.
 
 > **Log** - View a log of every email sent from the monitored email addresses that you set. Sort emails by specific site or from the entire network.
