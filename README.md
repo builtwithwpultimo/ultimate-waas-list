@@ -41,12 +41,12 @@ _**Supports:** WP Ultimo v1 and v2._
 
 [^5]: Visit the [Github Page](https://github.com/keypress-media/) of KeyPress Media.
 
-## 5) WP Ultimo SMS Verification Step [^6]
+## 5) WP Ultimo SMS Verification Step by SaintScript Software [^6]
 > Add an additional verification step through SMS passcode to your WP Ultimo registration form.
 
 _**Supports:** WP Ultimo v1._
 
-## 6) WP Ultimo Email Verification Step [^6]
+## 6) WP Ultimo Email Verification Step by SaintScript Software [^6]
 > Add an additional verification step through Email passcode to your WP Ultimo registration form.
 
 _**Supports:** WP Ultimo v1._
