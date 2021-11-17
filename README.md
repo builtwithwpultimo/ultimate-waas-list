@@ -61,3 +61,4 @@ _**Supports:** WP Ultimo v1._
 # Free plugins
 
 1) [Send test emails of WP Ultimo email templates](https://github.com/keypress-media/kp-wu-test-emails) (Developed by KeyPress Media for WP Ultimo v1) [^5].
+2) [JungleWP Ultimo - This Plugin enables automatic domain syncing on JungleWP Hosting for WP Ultimo](https://wordpress.org/plugins/junglewpultimo/) (Developed by JungleWP LTD)
