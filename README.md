@@ -1,5 +1,7 @@
 # Ultimate WaaS List
 
+Curated list of awesome plugins for your projects powered by WP Ultimo.
+
 # Premium plugins
 
 ## 1) WP Ultimo by NextPress [^1] [^2]
