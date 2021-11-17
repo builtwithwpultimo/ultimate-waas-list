@@ -1,6 +1,6 @@
 # Ultimate WaaS List
 
-Curated list of awesome plugins for your projects powered by WP Ultimo.
+Curated list of awesome plugins that could add value for your projects powered by WP Ultimo.
 
 # Premium plugins
 
