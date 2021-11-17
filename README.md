@@ -28,7 +28,7 @@ _**Supports:** WP Ultimo v1._
 
 [^4]: Visit the official [website](https://emailmanager.io/) of Email Manager.
 
-## 4) DNS Manager by KeyPress Media (Graveyard)
+## 4) DNS Manager by KeyPress Media (Graveyard) [^5]
 > With DNS Manager, you'll connect your WordPress dashboard with a compatible managed DNS provider to create zones and records for you customer's websites directly from the WordPress dashboard.
 
 _**NOTE:** This plugin is meant to be used by webmasters and advanced administrators. It requires a 3rd-party managed DNS service such as Amazon Route 53, Google Cloud DNS, ClouDNS, Cloudflare DNS or DNS Made Easy._
