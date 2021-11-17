@@ -1,6 +1,6 @@
 # Ultimate WaaS List
 
-## 1) WP Ultimo by NextPress ([Website](https://wpulitmo.com)) (WP Ultimo v1, v2)
+## 1) WP Ultimo by NextPress ([Website](https://wpulitmo.com))
 #### Easily create your fully-automated Website as a Service business!
 With WP Ultimo you can create your own Website as a Service platform – like Wix.com, Squarespace, WordPress.com, and more – in hours, not months! Revolutionize your business model now with WP Ultimo!
 
