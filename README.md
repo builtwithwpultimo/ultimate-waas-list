@@ -45,7 +45,7 @@ _**Supports:** WP Ultimo v1._
 
 _**Supports:** WP Ultimo v1._
 
-[^5]: Visit the official [website](https://www.saintscript.com/plugins/) of Saintscript.
+[^5]: Visit the official [website](https://www.saintscript.com/plugins/) of SaintScript Software.
 
 # FREE
 
