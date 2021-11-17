@@ -1,9 +1,10 @@
 # Ultimate WaaS List
 
-## 1) WP Ultimo by NextPress ([Website](https://wpulitmo.com))
+## 1) WP Ultimo by NextPress [^1][^2].
 #### Easily create your fully-automated Website as a Service business!
 > With WP Ultimo you can create your own Website as a Service platform – like Wix.com, Squarespace, WordPress.com, and more – in hours, not months! Revolutionize your business model now with WP Ultimo!
-
+[^1]: Visit the officicial [website](https://wpultimo.com) of WP Ultimo.
+[^2]: Visit the officicial [website](https://nextpress.co) of NextPress the creators of WP Ultimo.
 
 ## 2) WP Email Manager ([Website](https://wpemailmanager.com/)) (WP Ultimo v1, v2)
 ### Create, Update and Delete Domain Based Email Accounts Directly from the WordPress dashboard.
