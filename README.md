@@ -34,3 +34,11 @@ _**Supports:** WP Ultimo v1._
 _**NOTE:** This plugin is meant to be used by webmasters and advanced administrators. It requires a 3rd-party managed DNS service such as Amazon Route 53, Google Cloud DNS, ClouDNS, Cloudflare DNS or DNS Made Easy._
 
 _**Supports:** WP Ultimo v1 and v2._
+
+## 5) WP Ultimo SMS Verification Step [5^]
+> Add an additional verification step through SMS passcode to your WP Ultimo registration form.
+
+## 6) WP Ultimo Email Verification Step [5^]
+> Add an additional verification step through Email passcode to your WP Ultimo registration form.
+
+[^5]: Visit the official [website](https://www.saintscript.com/plugins/) of Saintscript.
