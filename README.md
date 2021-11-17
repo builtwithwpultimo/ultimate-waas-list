@@ -5,8 +5,8 @@
 #### Easily create your fully-automated Website as a Service business!
 > With WP Ultimo you can create your own Website as a Service platform – like Wix.com, Squarespace, WordPress.com, and more – in hours, not months! Revolutionize your business model now with WP Ultimo!
 
-[^1]: Visit the official [website](https://wpultimo.com) of WP Ultimo.
-[^2]: Visit the official [website](https://nextpress.co) of NextPress the creators of WP Ultimo.
+[^1]: Visit the official [Website](https://wpultimo.com) of WP Ultimo.
+[^2]: Visit the official [Website](https://nextpress.co) of NextPress the creators of WP Ultimo.
 
 ## 2) WP Email Manager [^3]
 ### Create, Update and Delete Domain Based Email Accounts Directly from the WordPress dashboard.
@@ -14,7 +14,7 @@
 
 _**Supports:** WP Ultimo v1 and v2._
 
-[^3]: Visit the official [website](https://wpemailmanager.com/) of WP Email Manager.
+[^3]: Visit the official [Website](https://wpemailmanager.com/) of WP Email Manager.
 
 ## 3) Email Manager [^4]
 ### Log & Limit Email Sending
@@ -26,7 +26,7 @@ _**Supports:** WP Ultimo v1 and v2._
 
 _**Supports:** WP Ultimo v1._
 
-[^4]: Visit the official [website](https://emailmanager.io/) of Email Manager.
+[^4]: Visit the official [Website](https://emailmanager.io/) of Email Manager.
 
 ## 4) DNS Manager by KeyPress Media (Graveyard) [^5]
 > With DNS Manager, you'll connect your WordPress dashboard with a compatible managed DNS provider to create zones and records for you customer's websites directly from the WordPress dashboard.
@@ -35,7 +35,7 @@ _**NOTE:** This plugin is meant to be used by webmasters and advanced administra
 
 _**Supports:** WP Ultimo v1 and v2._
 
-[^5]: Visit the official [github page](https://github.com/keypress-media/) of KeyPress Media.
+[^5]: Visit the [Github Page](https://github.com/keypress-media/) of KeyPress Media.
 
 ## 5) WP Ultimo SMS Verification Step [^6]
 > Add an additional verification step through SMS passcode to your WP Ultimo registration form.
@@ -47,7 +47,7 @@ _**Supports:** WP Ultimo v1._
 
 _**Supports:** WP Ultimo v1._
 
-[^6]: Visit the official [website](https://www.saintscript.com/plugins/) of SaintScript Software.
+[^6]: Visit the official [Website](https://www.saintscript.com/plugins/) of SaintScript Software.
 
 # Plugins (Free)
 
