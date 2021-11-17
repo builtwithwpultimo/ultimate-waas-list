@@ -35,10 +35,14 @@ _**NOTE:** This plugin is meant to be used by webmasters and advanced administra
 
 _**Supports:** WP Ultimo v1 and v2._
 
-## 5) WP Ultimo SMS Verification Step [5^]
+## 5) WP Ultimo SMS Verification Step [^5]
 > Add an additional verification step through SMS passcode to your WP Ultimo registration form.
 
-## 6) WP Ultimo Email Verification Step [5^]
+_**Supports:** WP Ultimo v1._
+
+## 6) WP Ultimo Email Verification Step [^5]
 > Add an additional verification step through Email passcode to your WP Ultimo registration form.
+
+_**Supports:** WP Ultimo v1._
 
 [^5]: Visit the official [website](https://www.saintscript.com/plugins/) of Saintscript.
