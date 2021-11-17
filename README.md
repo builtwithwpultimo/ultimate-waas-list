@@ -55,8 +55,8 @@ _**Supports:** WP Ultimo v1._
 
 ## More
 
-1) [WaaS Hero](https://waashero.com/)
-2) [WaaS.PRO](https://waas-pro.com/)
+1) Premium plugins by [WaaS Hero](https://waashero.com/)
+2) Premium plugins by [WaaS.PRO](https://waas-pro.com/)
 
 # Free plugins
 
