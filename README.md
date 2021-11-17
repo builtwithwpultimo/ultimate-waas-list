@@ -53,6 +53,11 @@ _**Supports:** WP Ultimo v1._
 
 [^6]: Visit the official [Website](https://www.saintscript.com/plugins/) of SaintScript Software.
 
+## More
+
+1) [WaaS Hero](https://waashero.com/)
+2) [WaaS.PRO](https://waas-pro.com/)
+
 # Free plugins
 
 1) [Send test emails of WP Ultimo email templates](https://github.com/keypress-media/kp-wu-test-emails) (Developed by KeyPress Media for WP Ultimo v1) [^5].
