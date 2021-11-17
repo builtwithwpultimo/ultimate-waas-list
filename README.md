@@ -51,4 +51,4 @@ _**Supports:** WP Ultimo v1._
 
 # Plugins (Free)
 
-1) [Send test emails of WP Ultimo email templates](https://github.com/keypress-media/kp-wu-test-emails) (Developed for WP Ultimo v1) [^5].
+1) [Send test emails of WP Ultimo email templates](https://github.com/keypress-media/kp-wu-test-emails) (Developed by KeyPress Media for WP Ultimo v1) [^5].
