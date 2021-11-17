@@ -48,3 +48,5 @@ _**Supports:** WP Ultimo v1._
 [^5]: Visit the official [website](https://www.saintscript.com/plugins/) of Saintscript.
 
 # FREE
+
+1) Send test emails of WP Ultimo email templates (Originally developed by KeyPress Media for WP Ultimo v1).
