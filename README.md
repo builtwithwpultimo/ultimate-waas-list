@@ -13,7 +13,7 @@ Curated list of awesome plugins that could add value for your projects powered b
 [^2]: Visit the official [Website](https://nextpress.co) of NextPress the creators of WP Ultimo.
 
 ## 2) WP Email Manager [^3]
-### Create, Update and Delete Domain Based Email Accounts Directly from the WordPress dashboard.
+#### Create, Update and Delete Domain Based Email Accounts Directly from the WordPress dashboard.
 > WP Email Manager makes it a breeze to create domain based email accounts from the WordPress dashboard while integrating with WP Multisite, WP Ultimo, MXroute, cPanel, DirectAdmin, 20i / StackCP, Mailcow & much more.
 
 _**Supports:** WP Ultimo v1 and v2._
